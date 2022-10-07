@@ -8,7 +8,7 @@ import javax.persistence.Id;
 public class Competence implements Serializable {
 	@Id
 	private int id;
-	//premier commentaire 
+	//premier commentaire difeerent
 	private String adresse;
 
 	public Competence() {
